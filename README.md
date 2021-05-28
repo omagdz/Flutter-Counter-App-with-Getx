@@ -1,6 +1,6 @@
 # counter_with_get
 
-A new Flutter project.
+a Recreation of flutter default counter app using Getx
 
 ## Getting Started
 
